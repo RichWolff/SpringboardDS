@@ -1,3 +1,8 @@
 # SpringboardDS
-Repository for code from Springboard Data Science Program
-# springboardCapstone1
+Here you'll find my code and resources from the Springboard Data Science Program
+
+## capstone_predictingObesity
+### Capstone 1 of the spring board class. I use the 500 Cities Health survey data to predict the obesity rate given the rate of many other health survey responses.
+
+## mini_projects
+### These are the projects finished in each chapter of the springboard data science program.
