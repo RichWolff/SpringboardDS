@@ -6,7 +6,8 @@
 ##### Research Objectives
 	•	Identify behaviors that increase and/or decrease the obesity rate in any US census tract
 ##### Method
-	•	Created linear regression to identify the behaviors that affected the obesity rate follwed by creating a random forests to generate a more predicitve model.
+	•	Created linear regression to identify the behaviors that affected the obesity rate 
+	follwed by a random forests to generate a more predicitve model.
 
 ## Three Sub Folders
 #### Data
@@ -14,3 +15,4 @@
 #### jupyterNotebooks
 	Contains the notebooks used to explore the data and build the model
 #### Deliverables
+	Contains the deliverables from the project.
